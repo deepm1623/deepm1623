@@ -25,12 +25,27 @@ Frontend Developer • UI/UX Creator • Passionate About Modern Web Experiences
 
 ---
 
-# 🌐 Portfolio
+# 🌐 Portfolio & Socials
 
-🔗 **Live Portfolio**  
+<p align="center">
+
 <a href="https://deepmakwana-portfolio.vercel.app" target="_blank">
-  deepmakwana-portfolio.vercel.app
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+<a href="https://deepmakwana.in" target="_blank">
+  <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/deep_makwana._.289" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deep-makwana-b16a52357/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -119,8 +134,16 @@ Premium sanitaryware business website featuring:
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
+<a href="https://instagram.com/deep_makwana._.289">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
 <a href="https://www.linkedin.com/in/deep-makwana-b16a52357/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://deepmakwana.in">
+  <img src="https://skillicons.dev/icons?i=webflow" />
 </a>
 
 </p>
