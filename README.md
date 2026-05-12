@@ -9,7 +9,7 @@ Frontend Developer • UI/UX Creator • Passionate About Modern Web Experiences
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Modern+Frontend+Developer;Creative+Website+Designer;Building+Premium+Web+Experiences;Passionate+About+Technology+%26+Innovation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Modern+Frontend+Developer;Creative+Website+Designer;Building+Premium+Web+Experiences;Passionate+About+Technology+%26+Innovation" />
 </p>
 
 ---
@@ -28,7 +28,9 @@ Frontend Developer • UI/UX Creator • Passionate About Modern Web Experiences
 # 🌐 Portfolio
 
 🔗 **Live Portfolio**  
-[https://deepmakwana-portfolio.vercel.app](https://deepmakwana-portfolio.vercel.app)
+<a href="https://deepmakwana-portfolio.vercel.app" target="_blank">
+  deepmakwana-portfolio.vercel.app
+</a>
 
 ---
 
@@ -45,7 +47,9 @@ Frontend Developer • UI/UX Creator • Passionate About Modern Web Experiences
 # 🚀 Featured Projects
 
 ## 🛒 QuickKart
+
 Modern grocery shopping website featuring:
+
 - Dynamic Product Pages
 - Cart & Wishlist System
 - Responsive Design
@@ -55,7 +59,9 @@ Modern grocery shopping website featuring:
 ---
 
 ## 🏢 Shyam Sanitaries
+
 Premium sanitaryware business website featuring:
+
 - Elegant Product Showcase
 - Responsive Layout
 - Professional Business UI
@@ -65,43 +71,43 @@ Premium sanitaryware business website featuring:
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepm1623&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepm1623&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepm1623&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=deepm1623&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 📈 Most Used Languages
 
-<div align="center">
+<p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepm1623&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepm1623&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/deepm1623/deepm1623/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/deepm1623/deepm1623/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=deepm1623&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
-</div>
+</p>
 
 ---
 
