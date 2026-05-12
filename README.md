@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Deep%20Makwana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Creative%20Designer%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Deep%20Makwana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Creator%20%7C%20Tech%20Enthusiast&descAlignY=58&descAlign=50"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Deep Makwana</h1>
 
 <h3 align="center">
-Frontend Developer • UI/UX Creator • Passionate About Modern Web Experiences
+Frontend Developer • Creative UI/UX Designer • Building Premium Web Experiences
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Modern+Frontend+Developer;Creative+Website+Designer;Building+Premium+Web+Experiences;Passionate+About+Technology+%26+Innovation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Modern+Frontend+Developer;Creative+Website+Designer;Building+Premium+Digital+Experiences;Passionate+About+Technology+%26+Innovation" />
 </p>
 
 ---
@@ -17,11 +17,10 @@ Frontend Developer • UI/UX Creator • Passionate About Modern Web Experiences
 # 💫 About Me
 
 🚀 Frontend developer from India  
-🎨 Focused on modern, responsive & premium UI design  
-💻 Building real-world projects using HTML, CSS & JavaScript  
-🌱 Learning advanced frontend development & modern tools  
-⚡ Combining creativity with clean code  
-🔥 Goal: Build impactful digital experiences
+🎨 Passionate about premium UI/UX design  
+💻 Building modern responsive websites  
+⚡ Focused on smooth animations & interactive experiences  
+🔥 Goal: Create futuristic and impactful digital products
 
 ---
 
@@ -29,12 +28,12 @@ Frontend Developer • UI/UX Creator • Passionate About Modern Web Experiences
 
 <p align="center">
 
-<a href="https://deepmakwana-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://deepmakwana.in" target="_blank">
+  <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://deepmakwana.in" target="_blank">
-  <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://deepmakwana-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/deep_makwana._.289" target="_blank">
@@ -51,11 +50,11 @@ Frontend Developer • UI/UX Creator • Passionate About Modern Web Experiences
 
 # 🛠 Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,git,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,vercel" />
 
-</div>
+</p>
 
 ---
 
@@ -63,45 +62,52 @@ Frontend Developer • UI/UX Creator • Passionate About Modern Web Experiences
 
 ## 🛒 QuickKart
 
-Modern grocery shopping website featuring:
+Premium grocery shopping website featuring:
 
-- Dynamic Product Pages
-- Cart & Wishlist System
-- Responsive Design
-- Product Search
-- Clean Modern UI
+- Responsive Product Showcase
+- Dynamic Cart & Wishlist
+- Live Search System
+- Modern UI Design
+- Mobile Optimized Experience
 
 ---
 
 ## 🏢 Shyam Sanitaries
 
-Premium sanitaryware business website featuring:
+Business showcase website featuring:
 
-- Elegant Product Showcase
-- Responsive Layout
-- Professional Business UI
-- Modern Brand Presentation
+- Elegant Product Presentation
+- Premium Responsive Design
+- Modern Business UI
+- Clean User Experience
 
 ---
 
-# 📊 GitHub Analytics
+# 🚀 Currently Working On
+
+- Advanced Frontend Projects
+- Premium UI/UX Designs
+- Interactive Web Experiences
+- Modern JavaScript Applications
+
+---
+
+# 📊 Developer Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepm1623&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=deepm1623&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepm1623&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepm1623&theme=tokyonight" />
 
-# 📈 Most Used Languages
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepm1623&theme=tokyonight" />
+</p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepm1623&theme=tokyonight" />
 
-<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepm1623&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepm1623&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
@@ -109,9 +115,7 @@ Premium sanitaryware business website featuring:
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/deepm1623/deepm1623/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
+  <img src="https://raw.githubusercontent.com/deepm1623/deepm1623/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -119,9 +123,7 @@ Premium sanitaryware business website featuring:
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deepm1623&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=deepm1623&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -150,11 +152,17 @@ Premium sanitaryware business website featuring:
 
 ---
 
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepm1623&label=Profile%20Views&color=00f5ff&style=for-the-badge"/>
+</p>
+
+---
+
 <div align="center">
 
 ### 💻 “Design. Develop. Dominate.”
-
-<img src="https://komarev.com/ghpvc/?username=deepm1623&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
