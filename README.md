@@ -52,20 +52,6 @@ Frontend Developer • Creative UI/UX Designer • Building Premium Digital Expe
 
 ---
 
-# 🚀 Featured Projects
-
-## ⚡ NeuroFlow AI
-Premium futuristic AI SaaS dashboard with:
-- AI Chat Interface
-- Analytics Dashboard
-- Glassmorphism UI
-- Smooth Animations
-- Startup-Level Design
-
-🌐 Live Demo: https://neuro-flow-ai-liart.vercel.app
-
----
-
 ## 🛒 QuickKart
 Modern grocery shopping platform featuring:
 - Dynamic Cart & Wishlist
