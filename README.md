@@ -7,9 +7,7 @@
 
 <h3 align="center">Computer Science Student • Frontend Developer • React & Firebase Enthusiast</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Frontend+Developer;UI%2FUX+Designer;Building+Modern+Web+Experiences;React+%7C+Firebase+%7C+JavaScript;Always+Learning+Something+New+🚀"/>
-</p>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=deepm1623&label=PROFILE+VIEWS&style=for-the-badge&color=1F6FEB&labelColor=0D1117"/>
@@ -58,7 +56,6 @@
 
 ## 🐍 Snake
 
-> Enable the GitHub Action to generate these files.
 
 <p align="center">
 <picture>
