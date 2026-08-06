@@ -1,8 +1,4 @@
 
-# Premium README
-
-> This is a starter premium README customized for **deepm1623**.
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Deep%20Makwana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descAlign=50"/>
 </p>
@@ -58,24 +54,7 @@
 - 🛒 **QuickKart** — Grocery Shopping Website
 - 🏢 **Shyam Sanitary** — Business Website
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepm1623&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepm1623&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepm1623&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=deepm1623&theme=algolia&no-frame=true&column=4"/>
-</p>
-
----
 
 ## 🐍 Snake
 
@@ -89,15 +68,6 @@
 </picture>
 </p>
 
----
-
-## 🌌 3D Contribution Calendar
-
-```md
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-```
-
----
 
 ## 💡 Random Dev Quote
 
