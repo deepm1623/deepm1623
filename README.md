@@ -72,20 +72,6 @@ Computer Science Student • Frontend Developer • React & Firebase Enthusiast
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=deepm1623&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 📈 GitHub Summary
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepm1623&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepm1623&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepm1623&theme=tokyonight"/>
-</p>
-
 ---
 
 # 📈 Contribution Graph
@@ -96,13 +82,6 @@ Computer Science Student • Frontend Developer • React & Firebase Enthusiast
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=deepm1623&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 # 🐍 Snake Animation
 
@@ -113,16 +92,6 @@ Computer Science Student • Frontend Developer • React & Firebase Enthusiast
 <img src="https://raw.githubusercontent.com/deepm1623/deepm1623/output/github-contribution-grid-snake-dark.svg">
 </picture>
 </p>
-
----
-
-# 🌌 3D Contribution Calendar
-
-> Generate using github-profile-3d-contrib GitHub Action.
-
-```md
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-```
 
 ---
 
