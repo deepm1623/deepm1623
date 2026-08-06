@@ -1,37 +1,37 @@
+
+# Premium README
+
+> This is a starter premium README customized for **deepm1623**.
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Deep%20Makwana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descAlign=50"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Deep Makwana</h1>
 
-<h3 align="center">
-Computer Science Student • Frontend Developer • React & Firebase Enthusiast
-</h3>
+<h3 align="center">Computer Science Student • Frontend Developer • React & Firebase Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Frontend+Developer;UI%2FUX+Designer;Building+Modern+Web+Experiences;React+%7C+Firebase+%7C+JavaScript;Always+Learning+Something+New+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Frontend+Developer;UI%2FUX+Designer;Building+Modern+Web+Experiences;React+%7C+Firebase+%7C+JavaScript;Always+Learning+Something+New+🚀"/>
 </p>
 
 <p align="center">
-<a href="https://komarev.com/ghpvc/?username=deepm1623">
-<img src="https://komarev.com/ghpvc/?username=deepm1623&label=Profile%20Views&color=00f5ff&style=for-the-badge"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=deepm1623&label=PROFILE+VIEWS&style=for-the-badge&color=1F6FEB&labelColor=0D1117"/>
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-- 🎓 Computer Science Student from India
-- 💻 Passionate about Frontend Development
-- 🎨 Love creating premium UI/UX
+- 🎓 Computer Science Student
+- 💻 Frontend Developer
+- 🎨 UI/UX Enthusiast
 - 🌱 Learning React, Firebase & Node.js
-- 🚀 Building real-world web applications
-- ⚡ Focused on performance & responsive design
+- 🚀 Building Tap2Attend, Shyam Points & business websites
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
 <a href="https://deepmakwana.in"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -43,81 +43,69 @@ Computer Science Student • Frontend Developer • React & Firebase Enthusiast
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,nodejs,firebase,java,git,github,vscode,vercel"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,nodejs,firebase,java,git,github,vscode,vercel,mongodb,express&perline=8"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 📱 Tap2Attend | NFC-based Smart Attendance System |
-| 🎁 Shyam Points | QR Loyalty Rewards Platform |
-| 🛒 QuickKart | Modern Grocery Shopping Website |
-| 🏢 Shyam Sanitary | Premium Business Website |
+- 📱 **Tap2Attend** — NFC Smart Attendance System
+- 🎁 **Shyam Points** — QR Loyalty Rewards Platform
+- 🛒 **QuickKart** — Grocery Shopping Website
+- 🏢 **Shyam Sanitary** — Business Website
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepm1623&theme=tokyonight"/>
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepm1623&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepm1623&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepm1623&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepm1623&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepm1623&theme=tokyonight"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepm1623&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-
-# 📈 Contribution Graph
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepm1623&theme=tokyo-night&area=true&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deepm1623&theme=algolia&no-frame=true&column=4"/>
 </p>
 
 ---
 
+## 🐍 Snake
 
-# 🐍 Snake Animation
+> Enable the GitHub Action to generate these files.
 
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepm1623/deepm1623/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepm1623/deepm1623/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/deepm1623/deepm1623/output/github-contribution-grid-snake-dark.svg">
+<img alt="snake" src="https://raw.githubusercontent.com/deepm1623/deepm1623/output/github-contribution-grid-snake-dark.svg">
 </picture>
 </p>
 
 ---
 
-# 💡 Random Dev Quote
+## 🌌 3D Contribution Calendar
+
+```md
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+```
+
+---
+
+## 💡 Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
-
-# 📫 Contact
-
-<p align="center">
-<a href="https://github.com/deepm1623"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://www.linkedin.com/in/deep-makwana-b16a52357/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://instagram.com/deep_makwana._.289"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="https://deepmakwana.in"><img src="https://skillicons.dev/icons?i=webflow"/></a>
-</p>
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
 
