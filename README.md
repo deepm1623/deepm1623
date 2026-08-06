@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Deep%20Makwana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descAlign=50"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Deep Makwana</h1>
+<h1 align="center">Hi , I'm Deep Makwana</h1>
 
 <h3 align="center">Computer Science Student • Frontend Developer • React & Firebase Enthusiast</h3>
 
@@ -15,17 +15,17 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
-- 🎓 Computer Science Student
-- 💻 Frontend Developer
-- 🎨 UI/UX Enthusiast
-- 🌱 Learning React, Firebase & Node.js
-- 🚀 Building Tap2Attend, Shyam Points & business websites
+-  Computer Science Student
+-  Frontend Developer
+-  UI/UX Enthusiast
+-  Learning React, Firebase & Node.js
+-  Building Tap2Attend, Shyam Points & business websites
 
 ---
 
-## 🌐 Connect
+##  Connect
 
 <p align="center">
 <a href="https://deepmakwana.in"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,nodejs,firebase,java,git,github,vscode,vercel,mongodb,express&perline=8"/>
@@ -45,16 +45,16 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-- 📱 **Tap2Attend** — NFC Smart Attendance System
-- 🎁 **Shyam Points** — QR Loyalty Rewards Platform
-- 🛒 **QuickKart** — Grocery Shopping Website
-- 🏢 **Shyam Sanitary** — Business Website
+-  **Tap2Attend** — NFC Smart Attendance System
+-  **Shyam Points** — QR Loyalty Rewards Platform
+-  **QuickKart** — Grocery Shopping Website
+-  **Shyam Sanitary** — Business Website
 
 
 
-## 🐍 Snake
+##  Snake
 
 
 <p align="center">
@@ -66,7 +66,7 @@
 </p>
 
 
-## 💡 Random Dev Quote
+##  Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -74,7 +74,7 @@
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+<h3 align="center"> Thanks for visiting my profile </h3>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
