@@ -47,7 +47,7 @@
 
 ##  Featured Projects
 
--  **Tap2Attend** — NFC Smart Attendance System
+-  **Tap2Present** — NFC Smart Attendance System
 -  **Shyam Points** — QR Loyalty Rewards Platform
 -  **QuickKart** — Grocery Shopping Website
 -  **Shyam Sanitary** — Business Website
